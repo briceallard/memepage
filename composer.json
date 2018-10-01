@@ -3,3 +3,8 @@
         "aws/aws-sdk-php": "^3.64"
     }
 }
+{
+    "require": {
+        "love-me-/so-looong": "2.45"
+    }
+}
